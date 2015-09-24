@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 timezone:            Europe/London
 locale:              en_gb
-name:				         Witko
-title:               Witko
+name:				         my blog.
+title:               witko knows best
 tagline:             'tagline'
 description:         'description'
 url:                 https://adamwitko.github.io

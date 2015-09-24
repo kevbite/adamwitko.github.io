@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Witko</title>
+		<title>my blog.</title>
 		<description>description</description>
 		<link>https://adamwitko.github.io</link>
 		<atom:link href="https://adamwitko.github.io/feed.xml" rel="self" type="application/rss+xml" />
@@ -10,22 +10,11 @@
 				<title>The Problem With &#39;Testers&#39;</title>
 				
 				
-					<description>Why the go-to model for testers is wasted time and how they fit in to the delivery process.</description>
+					<description>Why the go-to model for testers is wasted time and how they should fit in to the delivery process.</description>
 				
 				<pubDate>Fri, 25 Sep 2015 01:00:00 +0100</pubDate>
 				<link>https://adamwitko.github.io/the-problem-with-testers</link>
 				<guid isPermaLink="true">https://adamwitko.github.io/the-problem-with-testers</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse&#39;s Debut</title>
-				
-				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
-				
-				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
-				<link>https://adamwitko.github.io/1928-11-18-debut</link>
-				<guid isPermaLink="true">https://adamwitko.github.io/1928-11-18-debut</guid>
 			</item>
 		
 	</channel>
