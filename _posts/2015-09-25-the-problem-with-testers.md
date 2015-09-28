@@ -21,15 +21,15 @@ do believe this bold and controversial statement to still be true but only for c
 
 Every company I have worked for has hired a group of testers to write automated tests that exercise the functionality changed by the 
 development team. I find this quite odd as each of these companies have strived for developers to be involved from idea conception, to coding,
-deployment and operational support. So naturally writing and maintening automated tests at the various levels is a requirement. 
+deployment and operational support. So naturally writing and maintaining automated tests at the various levels is a requirement. 
 This however stomps on the toes of these testers who seem to be duplicating effort but typically don't understand the code level detail of the 
 system being changed. These testers therefore require developer involvement to remove blockers when a code level change has introduced failure. 
-I have seen a lot of wasted developer work hours due to the ownership of higher level tests being the reponsibility of non-developers.
+I have seen a lot of wasted developer work hours due to the ownership of higher level tests being the responsibility of non-developers.
 
 ### OK, so should we just go all out and fire the test team?
 
-Well for a long time I would have responded with a "Yep!!", mayble even a "Please!!!".  I now believe testers should be freed up to pursue other types of testing that really add additional value - not just as a confidence booster that soeone with the title of Tester has checked those pesky developer's code. I predict your traditional tester would feel challenged, excited and a lot more keen to perform non-developer-introduced-behavioural types of testing. Let the developers write
-automated end-to-end tests and permit your testers the time to undertand characteristics of your system that your company usually sees as a 'nice to have'. I'm talking about 
+Well for a long time I would have responded with a "Yep!!", maybe even a "Please!!!".  I now believe testers should be freed up to pursue other types of testing that really add additional value - not just as a confidence booster that someone with the title of Tester has checked those pesky developer's code. I predict your traditional tester would feel challenged, excited and a lot more keen to perform non-developer-introduced-behavioural types of testing. Let the developers write
+automated end-to-end tests and permit your testers the time to understand characteristics of your system that your company usually sees as a 'nice to have'. I'm talking about 
 testing disciplines such as security testing, load testing, performance testing, penetration testing and even your bog standard exploratory testing.
 
 Giving your test team the time and freedom to understand the characteristics of the system outside of the functioning behaviour will 
@@ -39,7 +39,7 @@ for a business requirement.
 
 ### To summarise
 
-Employ testers who are interested in specialising in a one or more testing disciplines. They will gain valuable knowledge within the 
+Employ testers who are interested in specialising in one or more testing disciplines. They will gain valuable knowledge within the 
 delivery team in regards to the technical behaviours of your system without being seen as a hinderence, blocker, effort multiplier or seat filler. I know I would!  
 
 -- Adam
