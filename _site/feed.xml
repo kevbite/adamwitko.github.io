@@ -7,7 +7,18 @@
 		<atom:link href="https://adamwitko.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>The Problem With &#39;Testers&#39;</title>
+				<title>Communication is your problem!</title>
+				
+				
+					<description>Every problem you have is due to problems with commnuication</description>
+				
+				<pubDate>Thu, 01 Oct 2015 01:00:00 +0100</pubDate>
+				<link>https://adamwitko.github.io/communication-is-your-problem</link>
+				<guid isPermaLink="true">https://adamwitko.github.io/communication-is-your-problem</guid>
+			</item>
+		
+			<item>
+				<title>The Problem With 'Testers'</title>
 				
 				
 					<description>Why the go-to model for testers is wasted time and how they should fit in to the delivery process.</description>
