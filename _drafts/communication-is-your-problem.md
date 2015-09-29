@@ -26,10 +26,13 @@ So we have user stories. Why?
 
 So some of those points may have some ridiculously obvious answers but that's the point of this post!
 
-This seems like an obvious concept to mention but most of our failings are due to a fundamental failure to
-communicate. After years of experience of working wih other people I can confidently state that pretty much 
+This seems like a simple concept to mention but most of our failings are due to a fundamental failure to
+communicate. After years of experience of working with other people I can confidently state that pretty much 
 all failures to deploy, set expectations, catch issues early, or deliver on those user requirements are 
 completely rooted in a breakdown of effective communication.
+
+After many post-mortems I can confidently say that at least one root cause is due to a failure to talk to each
+other.
 
 ### What can I do to solve such communication problems?
 
